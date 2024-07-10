@@ -44,10 +44,3 @@ The SHARK TANK Analysis Dashboard provides a visual and analytical exploration o
 ## Reference
 [Shark Tank - Dataset on Kaggle](https://www.kaggle.com/datasets/thirumani/shark-tank-us-dataset)
 
-## Skills
-* Data Visualization
-* Tableau
-* Dashboard Creation
-* Data Analysis
-* Business Intelligence
-* Storytelling with Data
